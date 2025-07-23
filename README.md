@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daniel Quiñones</h1>
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **OpenGL**
 
 
 <h3 align="left">Languages and Tools:</h3>
