@@ -20,7 +20,6 @@
 - Transformer Architectures
 
 💻 Currently working on:
-- Electronic invoicing and SUNAT integration systems
 - Deep learning models implemented from scratch in C++ and CUDA
 - PET/CT medical image segmentation using CNNs and Transformers
 ---
@@ -29,9 +28,6 @@
 
 ### 🏥 Medical Image Segmentation Research
 Research on automatic tumor segmentation in PET/CT images using CNN and Transformer-based architectures.
-
-### 🧾 SUNAT API
-Backend platform for electronic invoicing, XML generation, digital signing, and SUNAT integration.
 
 ### ⚡ Neural Networks from Scratch
 Implementation of:
